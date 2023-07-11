@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="versus.png">
+    <img src="profile/versus.png">
 </p>
 
 <h1 align="center">
